@@ -1,4 +1,4 @@
-pic = imread('digital_images_week2_quizzes_lena.png');
+pic = imread('pic1.gif');
 
 
 
